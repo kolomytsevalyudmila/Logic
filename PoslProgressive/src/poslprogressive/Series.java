@@ -1,0 +1,7 @@
+
+package poslprogressive;
+
+
+class Series {
+    
+}
